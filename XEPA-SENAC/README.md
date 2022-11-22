@@ -27,7 +27,7 @@ A jornada de usuário com o app Xepa é fundamental para sua utilidade e funcion
 
 * AUTENTICACAO: Firebase authentication
 
-
+Link de video de demonstração no Youtube: https://youtu.be/WbbLVmUggAc
 
 
 # Como executar o projeto
